@@ -147,7 +147,7 @@ button {
 }
 
 #copyright #social-media a:hover {
-    background: #00FFAD;
+    background: #f0b90b;
 }
 
 #copyright #social-media a:hover i {
@@ -159,4 +159,10 @@ button {
     #banner h1 {
         font-size: 3.6rem;
     }
+}
+
+.custom-box{
+    background: #192440;
+    padding: 16px;
+    border-radius: 8px;
 }
